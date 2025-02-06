@@ -18,6 +18,7 @@ function App() {
               <div className="product info">
               <p>{product.name}</p>
               <p>{product.price}</p>
+              <button>Add To Cart</button>
               </div>
 
             </div>))}
